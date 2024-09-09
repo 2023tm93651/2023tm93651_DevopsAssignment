@@ -1,3 +1,4 @@
 Initial content
 Changes from development
 Dev branch changes
+resolve conflicts
